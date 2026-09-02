@@ -1,5 +1,4 @@
-<img width="1293" height="572" alt="642033506-fa0ef154-c51e-4b64-881a-1071213b790d" src="https://github.com/user-attachments/assets/42e8426e-659b-44de-9a00-b68d1f411c87" />
-<img width="1132" height="786" alt="642033393-92b0ebbf-f875-4053-b746-1b6ac59ce70e" src="https://github.com/user-attachments/assets/dcbfa928-25ae-40ae-b4a3-47b4f7a89d9c" />
+
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## DATE: 
