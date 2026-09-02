@@ -1,3 +1,5 @@
+<img width="1293" height="572" alt="642033506-fa0ef154-c51e-4b64-881a-1071213b790d" src="https://github.com/user-attachments/assets/42e8426e-659b-44de-9a00-b68d1f411c87" />
+<img width="1132" height="786" alt="642033393-92b0ebbf-f875-4053-b746-1b6ac59ce70e" src="https://github.com/user-attachments/assets/dcbfa928-25ae-40ae-b4a3-47b4f7a89d9c" />
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## DATE: 
@@ -50,13 +52,15 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/15f7e50d-486d-46d0-bed0-8f51b36e7396)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
+<img width="1132" height="786" alt="image" src="https://github.com/user-attachments/assets/1b31f220-34ad-4695-8a03-b7856aebeb53" />
 
+<img width="1293" height="572" alt="image" src="https://github.com/user-attachments/assets/5fd1ea25-cae6-404d-bf32-6a14e53fed20" />
 
 ## Output:
 
 
-### Name:
-### Register Number: 
+### Name:RAHUL
+### Register Number: 212225230294
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
